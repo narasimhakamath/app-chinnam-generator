@@ -1,0 +1,26 @@
+{
+  "name": "app-icon-generator",
+  "version": "1.0.0",
+  "description": "Node.js package to generate app icons for Android and iOS platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narasimhakamath/app-icon-generator.git"
+  },
+  "author": "Narasimha Kamath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narasimhakamath/app-icon-generator/issues"
+  },
+  "homepage": "https://github.com/narasimhakamath/app-icon-generator#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "colorette": "^2.0.20",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "sharp": "^0.33.2"
+  }
+}
