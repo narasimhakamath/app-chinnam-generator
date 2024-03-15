@@ -1,5 +1,5 @@
 {
-  "name": "app-icon-generator",
+  "name": "app-chinnam-generator",
   "version": "1.0.0",
   "description": "Node.js package to generate app icons for Android and iOS platform.",
   "main": "index.js",
